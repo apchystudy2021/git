@@ -2,3 +2,4 @@ atguigu:
 atguigu 2
 atguigu 3
 atguigu 4
+add new color RMB
